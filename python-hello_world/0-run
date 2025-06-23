@@ -1,3 +1,2 @@
 #!/bin/bash
-./$PYFILE
-echo "c is fun! "
+./$PYFILE && echo "c is fun! "
